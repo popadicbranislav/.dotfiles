@@ -104,9 +104,10 @@ alias vim="nvim"
 alias lg="lazygit"
 
 # pnpm
-export PNPM_HOME="/Users/A62284838/Library/pnpm"
+export PNPM_HOME="/home/brano/.local/share/pnpm"
 export PATH="$PNPM_HOME:$PATH"
 # pnpm end
+
 # bun completions
 [ -s "/Users/A62284838/.bun/_bun" ] && source "/Users/A62284838/.bun/_bun"
 
